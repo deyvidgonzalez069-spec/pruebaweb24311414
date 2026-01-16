@@ -172,10 +172,10 @@ body{
 @media(min-width: 900px){
     .grid-container{
         grid-template:
-        "header" 200px
+        "header" 100px
         "navbar" auto
         "video"  auto
-        "footer" 100px / 
+        "footer" 50px / 
         auto;
     }
 }
